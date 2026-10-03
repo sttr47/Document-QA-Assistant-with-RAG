@@ -64,22 +64,3 @@ if __name__ == "__main__":
         result = process_text(q)
         print(f"Q: {q}")
         print(f"A: {result['response']}")
-
-    
-
-
-
-
-# questions = [
-#     {"What are the core hours during which employees must be reachable?"},
-#     {"How many weeks of fully paid leave does the birth parent receive?"},
-#     {"How much is the one-time home office budget, and within how many days must receipts be submitted?"},
-#     {"What is the annual learning budget per employee?"},
-#     {"What is the maximum hotel reimbursement per night in London?"},
-#     {"What is the minimum password length and how often must passwords be changed?"},
-#     {"How much is the referral bonus and how long must the referred candidate stay?"},
-#     # out-of-scope
-#     {"Why was Eddard Stark executed in Game of Thrones?"},
-#     {"What is the capital of France?"},
-#     {"What is the CEO's annual salary at Nordvale Robotics?"}
-#     ]
